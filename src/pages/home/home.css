@@ -1,0 +1,15 @@
+.upBox {
+  padding-top: 50px;
+  display: flex;
+  justify-content: space-between;
+  height: 100px;
+}
+.upBox .card {
+  margin-left: 30px;
+  margin-right: 100px;
+  flex: 1;
+}
+.upBox .charts {
+  flex: 3;
+  height: 100px;
+}
